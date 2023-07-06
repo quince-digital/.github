@@ -1,4 +1,4 @@
-![README Cover](https://github.com/quince-digital/.github/assets/93064304/602e0785-ba8f-403d-904c-21a937b4a94e)
+![README Cover](https://github.com/quince-digital/.github/assets/93064304/7d088767-b9b3-4e43-b68b-5a3a2204666d)
 
 ## Welcome to Quince Ingen!
 
